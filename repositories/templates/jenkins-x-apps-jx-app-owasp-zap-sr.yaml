@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jenkins-x-apps
+    provider: github
+    repository: jx-app-owasp-zap
+  name: jenkins-x-apps-jx-app-owasp-zap
+spec:
+  description: Imported application for jenkins-x-apps/jx-app-owasp-zap
+  httpCloneURL: https://github.com/jenkins-x-apps/jx-app-owasp-zap.git
+  org: jenkins-x-apps
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-app-owasp-zap
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jenkins-x-apps/jx-app-owasp-zap.git
