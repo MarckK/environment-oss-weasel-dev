@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[jenkins-x-apps/jx-app-owasp-zap](https://github.com/jenkins-x-apps/jx-app-owasp-zap.git) |  | []() | 
+[jenkins-x-apps/jx-app-flagger](https://github.com/jenkins-x-apps/jx-app-flagger.git) |  | []() | 
